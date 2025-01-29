@@ -1,0 +1,179 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Joe's Pizza",
+      "address": "123 Main St, New York, NY 10001",
+      "phone": "(212) 555-1234",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Pizza Palace",
+      "address": "456 Elm St, Brooklyn, NY 11201",
+      "phone": "(718) 555-5678",
+      "rating": 4.0
+    },
+    {
+      "id": 3,
+      "name": "Slice of Heaven",
+      "address": "789 Oak St, Queens, NY 11385",
+      "phone": "(718) 555-8765",
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "name": "Mama Mia's Pizzeria",
+      "address": "101 Pine St, Bronx, NY 10453",
+      "phone": "(718) 555-4321",
+      "rating": 4.3
+    },
+    {
+      "id": 5,
+      "name": "The Pizza Joint",
+      "address": "202 Maple St, Staten Island, NY 10301",
+      "phone": "(718) 555-6789",
+      "rating": 4.2
+    },
+    {
+      "id": 6,
+      "name": "Tony's Pizza",
+      "address": "303 Cedar St, New York, NY 10002",
+      "phone": "(212) 555-2345",
+      "rating": 4.6
+    },
+    {
+      "id": 7,
+      "name": "Pizza Express",
+      "address": "404 Birch St, Brooklyn, NY 11202",
+      "phone": "(718) 555-6780",
+      "rating": 4.1
+    },
+    {
+      "id": 8,
+      "name": "Pizza Planet",
+      "address": "505 Spruce St, Queens, NY 11386",
+      "phone": "(718) 555-8766",
+      "rating": 4.8
+    },
+    {
+      "id": 9,
+      "name": "Pizza Town",
+      "address": "606 Willow St, Bronx, NY 10454",
+      "phone": "(718) 555-4322",
+      "rating": 4.4
+    },
+    {
+      "id": 10,
+      "name": "Pizza World",
+      "address": "707 Ash St, Staten Island, NY 10302",
+      "phone": "(718) 555-6790",
+      "rating": 4.3
+    },
+    {
+      "id": 11,
+      "name": "Pizza King",
+      "address": "808 Pine St, New York, NY 10003",
+      "phone": "(212) 555-3456",
+      "rating": 4.7
+    },
+    {
+      "id": 12,
+      "name": "Pizza Queen",
+      "address": "909 Maple St, Brooklyn, NY 11203",
+      "phone": "(718) 555-6781",
+      "rating": 4.2
+    },
+    {
+      "id": 13,
+      "name": "Pizza Prince",
+      "address": "1010 Oak St, Queens, NY 11387",
+      "phone": "(718) 555-8767",
+      "rating": 4.9
+    },
+    {
+      "id": 14,
+      "name": "Pizza Princess",
+      "address": "1111 Elm St, Bronx, NY 10455",
+      "phone": "(718) 555-4323",
+      "rating": 4.5
+    },
+    {
+      "id": 15,
+      "name": "Pizza Master",
+      "address": "1212 Cedar St, Staten Island, NY 10303",
+      "phone": "(718) 555-6791",
+      "rating": 4.4
+    },
+    {
+      "id": 16,
+      "name": "Pizza Pro",
+      "address": "1313 Birch St, New York, NY 10004",
+      "phone": "(212) 555-4567",
+      "rating": 4.6
+    },
+    {
+      "id": 17,
+      "name": "Pizza Expert",
+      "address": "1414 Spruce St, Brooklyn, NY 11204",
+      "phone": "(718) 555-6782",
+      "rating": 4.3
+    },
+    {
+      "id": 18,
+      "name": "Pizza Specialist",
+      "address": "1515 Willow St, Queens, NY 11388",
+      "phone": "(718) 555-8768",
+      "rating": 4.8
+    },
+    {
+      "id": 19,
+      "name": "Pizza Guru",
+      "address": "1616 Ash St, Bronx, NY 10456",
+      "phone": "(718) 555-4324",
+      "rating": 4.5
+    },
+    {
+      "id": 20,
+      "name": "Pizza Wizard",
+      "address": "1717 Pine St, Staten Island, NY 10304",
+      "phone": "(718) 555-6792",
+      "rating": 4.4
+    },
+    {
+      "id": 21,
+      "name": "Pizza Magician",
+      "address": "1818 Maple St, New York, NY 10005",
+      "phone": "(212) 555-5678",
+      "rating": 4.7
+    },
+    {
+      "id": 22,
+      "name": "Pizza Connoisseur",
+      "address": "1919 Oak St, Brooklyn, NY 11205",
+      "phone": "(718) 555-6783",
+      "rating": 4.2
+    },
+    {
+      "id": 23,
+      "name": "Pizza Aficionado",
+      "address": "2020 Elm St, Queens, NY 11389",
+      "phone": "(718) 555-8769",
+      "rating": 4.9
+    },
+    {
+      "id": 24,
+      "name": "Pizza Enthusiast",
+      "address": "2121 Cedar St, Bronx, NY 10457",
+      "phone": "(718) 555-4325",
+      "rating": 4.5
+    },
+    {
+      "id": 25,
+      "name": "Pizza Lover",
+      "address": "2222 Birch St, Staten Island, NY 10305",
+      "phone": "(718) 555-6793",
+      "rating": 4.4
+    }
+  ]
+}

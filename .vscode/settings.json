@@ -1,0 +1,41 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+  },
+  "eslint.useFlatConfig": false,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "git.openRepositoryInParentFolders": "always",
+  "cSpell.words": [
+    "antd",
+    "Bagout",
+    "Barcodes",
+    "Cascader",
+    "checkin",
+    "codegen",
+    "CoinKeyinOrderResult",
+    "cssinjs",
+    "ctng",
+    "Dtos",
+    "Ecash",
+    "INSERVICE",
+    "Midroute",
+    "MOVEBALANCE",
+    "Resequence",
+    "tanstack",
+    "testid",
+    "TRANSFERED",
+    "turbopack",
+    "Unrouted"
+  ]
+}

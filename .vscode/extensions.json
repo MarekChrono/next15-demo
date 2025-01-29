@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "thibault-vanderseypen.i18n-json-editor",
+    "yoavbls.pretty-ts-errors",
+    "burkeholland.simple-react-snippets",
+    "PulkitGangwar.nextjs-snippets",
+    "DavidAnson.vscode-markdownlint"
+  ]
+}
