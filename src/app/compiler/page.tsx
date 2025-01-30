@@ -1,5 +1,5 @@
 "use client";
-import { useMemo, useState } from "react";
+import { useState } from "react";
 import Counter from "./Counter";
 import HeavyComponent from "./HeavyComponent";
 

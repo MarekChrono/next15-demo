@@ -7,3 +7,5 @@ const RefComponent = forwardRef<HTMLInputElement, Record<never, never>>(
 );
 
 export default RefComponent;
+
+RefComponent.displayName = "RefComponent";
